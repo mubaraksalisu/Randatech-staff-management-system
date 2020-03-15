@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58AFCA5D-273C-4D8E-A17D-A08C5DBFC968}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>final_project</RootNamespace>
+    <AssemblyName>final_project</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mubarak\Desktop\FINAL PROJECT\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Absent_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Absent_Report.Designer.cs">
+      <DependentUpon>Absent_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUpdate.Designer.cs">
+      <DependentUpon>AdminUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AE_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AE_Form.Designer.cs">
+      <DependentUpon>AE_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EE_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EE_Form.Designer.cs">
+      <DependentUpon>EE_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_DBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_DBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_DBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_DBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Main_data_set1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Main_data_set1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VE_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VE_Form.Designer.cs">
+      <DependentUpon>VE_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ES_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ES_View.Designer.cs">
+      <DependentUpon>ES_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form.Designer.cs">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VC_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VC_Form.Designer.cs">
+      <DependentUpon>VC_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_AE_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_AE_form.Designer.cs">
+      <DependentUpon>View_AE_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_EE_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_EE_form.Designer.cs">
+      <DependentUpon>View_EE_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_VE_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_VE_form.Designer.cs">
+      <DependentUpon>View_VE_form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Absent_Report.resx">
+      <DependentUpon>Absent_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUpdate.resx">
+      <DependentUpon>AdminUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AE_Form.resx">
+      <DependentUpon>AE_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EE_Form.resx">
+      <DependentUpon>EE_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="VE_Form.resx">
+      <DependentUpon>VE_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ES_View.resx">
+      <DependentUpon>ES_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form.resx">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VC_Form.resx">
+      <DependentUpon>VC_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_AE_form.resx">
+      <DependentUpon>View_AE_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_EE_form.resx">
+      <DependentUpon>View_EE_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_VE_form.resx">
+      <DependentUpon>View_VE_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Employee_DBDataSet.xsc">
+      <DependentUpon>Employee_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_DBDataSet.xss">
+      <DependentUpon>Employee_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_DBDataSet1.xsc">
+      <DependentUpon>Employee_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_DBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_DBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_DBDataSet1.xss">
+      <DependentUpon>Employee_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_DBDataSet2.xsc">
+      <DependentUpon>Employee_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_DBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_DBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_DBDataSet2.xss">
+      <DependentUpon>Employee_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Main_data_set1.xsc">
+      <DependentUpon>Main_data_set1.xsd</DependentUpon>
+    </None>
+    <None Include="Main_data_set1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Main_data_set1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Main_data_set1.xss">
+      <DependentUpon>Main_data_set1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Employee_DB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Employee_DB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Employee_DB.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\Randatech Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

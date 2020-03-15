@@ -1,0 +1,50 @@
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.csprojResolveAssemblyReference.cache
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.Absent_Report.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.AddUser.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.AdminUpdate.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.EE_Form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.VE_Form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.ES_View.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.Login_Form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.Main_Form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.Properties.Resources.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.VC_Form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.csproj.GenerateResource.Cache
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\bin\Debug\Employee_DB.mdf
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\bin\Debug\Employee_DB_log.ldf
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\bin\Debug\final_project.exe.config
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\bin\Debug\final_project.exe
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\bin\Debug\final_project.pdb
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.exe
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.pdb
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.View_AE_form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.View_EE_form.resources
+c:\users\mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.View_VE_form.resources
+C:\Users\Mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\final_project.AE_Form.resources
+C:\Users\Mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\RdlCompile.cache
+C:\Users\Mubarak\documents\visual studio 2010\Projects\final_project\final_project\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\bin\Debug\final_project.exe.config
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.exe
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.pdb
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\bin\Debug\Employee_DB.mdf
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\bin\Debug\Employee_DB_log.ldf
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\bin\Debug\final_project.exe
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\bin\Debug\final_project.pdb
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.csprojResolveAssemblyReference.cache
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.Absent_Report.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.AddUser.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.AdminUpdate.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.AE_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.EE_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.VE_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.ES_View.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.Login_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.Main_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.Properties.Resources.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.VC_Form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.View_AE_form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.View_EE_form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.View_VE_form.resources
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\final_project.csproj.GenerateResource.Cache
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\RdlCompile.cache
+C:\Users\Mubarak\Desktop\FINAL PROJECT\final_project\final_project\obj\x86\Debug\RdlCompile.compiled
